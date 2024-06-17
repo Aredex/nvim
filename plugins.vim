@@ -23,10 +23,6 @@ Plug 'tpope/vim-surround'
 " Plug 'benmills/vimux'
 " Plug 'christoomey/vim-tmux-navigator'
 
-" autocomplete
-Plug 'sirver/ultisnips'
-" Plug 'neoclide/coc.nvim', { 'brach': 'release' }
-
 " test
 Plug 'tyewang/vimux-jest-test'
 Plug 'janko-m/vim-test'
