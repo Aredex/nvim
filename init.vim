@@ -16,8 +16,8 @@ set showmatch
 set sw=2
 set relativenumber
 
-so ./plugins.vim
-so ./plugins-config.vim
+so ~/.config/nvim/plugins.vim
+so ~/.config/nvim/plugins-config.vim
 
 " Sección para temas
 colorscheme gruvbox

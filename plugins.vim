@@ -1,4 +1,4 @@
-call plug#begin('./plugins')
+call plug#begin('~/.config/nvim/plugins')
 
 " syntax
 Plug 'sheerun/vim-polyglot'
